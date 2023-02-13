@@ -303,7 +303,7 @@ body {
 }
 .icon-advantage {
   height: 112px;
-} 
+}
 .advantage-list {
   display: flex;
   flex-wrap: wrap;
@@ -488,7 +488,7 @@ body {
 .portfolio-item:hover,
 .portfolio-item:focus {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-  0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .portfolio-card-descr {
   padding: 32px 16px;
@@ -500,15 +500,10 @@ body {
   border-color: var(--cloud-light-bg-cl);
 }
 
-
-
 /* .portfolio-item:hover .portfolio-card-descr {
   border-color: solid var(--cloud-light-bg-cl);
 }
  */
-
-
-
 
 /* .portfolio-link, .portfolio-card-descr {
   display: block;
@@ -520,9 +515,6 @@ body {
   0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 } */
 
-
-
-
 /* .portfolio-card-descr:hover,
 .portfolio-card-descr:focus {
   border-right: 1px solid var(--cloud-light-bg-cl);
@@ -532,11 +524,6 @@ body {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
   0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 } */
-
-
-
-
-
 
 /* .portfolio-card-descr {
   padding: 32px 16px;
